@@ -28,7 +28,7 @@ function Projects() {
               🗂️ Task management: create, delete, mark as completed
               📱 Responsive design for a seamless user experience."
               ghLink="https://github.com/ap3220411/Todo-frontend"
-              demoLink="todo-frontend-ashen.vercel.app"
+              demoLink="https://todo-frontend-ashen.vercel.app"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -40,7 +40,7 @@ function Projects() {
               📱 Responsive design for a seamless user experience.
               Useing React.js and Css only"
               ghLink="https://github.com/ap3220411/Movies_thikana"
-              demoLink="movies-thikana.vercel.app"
+              demoLink="https://movies-thikana.vercel.app"
             />
           </Col>
 
