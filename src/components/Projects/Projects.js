@@ -22,7 +22,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
+              title="Todo Application"
               description="✨ Secure authentication (JWT, bcrypt)
               📧 Email functionality via Nodemailer
               🗂️ Task management: create, delete, mark as completed
@@ -35,7 +35,7 @@ function Projects() {
             <ProjectCard
               imgPath={Movies_thikana}
               isBlog={false}
-              title="Chatify"
+              title="Movies_thikana"
               description="
               📱 Responsive design for a seamless user experience.
               Useing React.js and Css only"
